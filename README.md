@@ -49,7 +49,7 @@
 
 ## ✨ Quote I Live By
 
-> "Strive for progress, not perfection. Keep learning, keep building." 💫
+> **"Strive for progress, not perfection. Keep learning, keep building."** 💫
 
 ---
 
