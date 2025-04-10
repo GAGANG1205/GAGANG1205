@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 👨‍🎓 B.Tech student majoring in Computer Science.
-- 💬 Ask me about **Data Structures and Algorithms in Java**.
+- 💬 Ask me about **Data Structures and Algorithms **.
 - 🤖 Exploring the world of **AI/ML and Data Analytics**.
 - 🔧 Currently trying my hands on **Backend Development**.
 
