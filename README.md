@@ -43,11 +43,20 @@
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gagan-gupta-360359262/)
-- 📬 gagangupta1205@gmail.com
-- 👨‍💻 [LeetCode](https://leetcode.com/u/Gagangupta1205/)
+<p align="left">
+  <a href="mailto:gagangupta1205@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gagan-gupta-360359262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Gagangupta1205/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
 
 ---
 
