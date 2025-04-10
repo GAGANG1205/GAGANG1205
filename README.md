@@ -1,4 +1,8 @@
-# 👋 Hey there, I'm Gagan Gupta
+<h1 align="center">Hey everyone! 👋 I'm Gagan Gupta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F77070&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;AI%2FML+Explorer;DSA+Lover+in+Java" alt="Typing SVG" />
+</p>
 
 🎓 A passionate Computer Science student at **Bhagwan Parshuram Institute of Technology**, driven by curiosity and creativity. Since childhood, I've been fascinated by technology — always exploring how things work and how I can build something even better.
 
