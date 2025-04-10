@@ -57,14 +57,23 @@
   </a>
 </p>
 
-Let’s build, learn, and grow together! 🚀
+
 
 ---
 
 ## ✨ Quote I Live By
 
-> **"Strive for progress, not perfection. Keep learning, keep building."** 💫
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%22Your+skills+will+open+doors,+but+your+consistency+will+keep+them+open.%22" alt="Quote Typing SVG" />
+</p>
+
+<p align="center">
+  <b>— Gagan Gupta</b>
+</p>
+
+Let’s build, learn, and grow together! 🚀
 ---
 
 
