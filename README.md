@@ -65,12 +65,13 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%22Strive+not+to+be+a+success%2C+but+rather+to+be+of+value.%22" alt="Einstein Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F77070&center=true&vCenter=true&width=750&lines=%22Success+doesn’t+come+from+what+you+do+occasionally%2C;it+comes+from+what+you+do+consistently.%22" alt="Consistency Quote" />
 </p>
 
 <p align="center">
-  <b>— Albert Einstein</b>
+  <b>— Marie Forleo</b>
 </p>
+
 
 Let’s build, learn, and grow together! 🚀
 ---
