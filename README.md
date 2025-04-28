@@ -1,4 +1,7 @@
-<h1 align="center">Hey everyone! 👋 I'm Gagan Gupta</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
+</p>
+<h1 align="center"><strong>👋I'm Gagan Gupta!</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F77070&center=true&vCenter=true&width=450&lines=Front-End+Developer;Data+Analytics+Enthusiast;AI%2FML+Explorer" alt="Typing SVG" />
@@ -57,7 +60,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-
+![snake gif](https://github.com/namanjain2012/GAGANG1205/blob/output/snake.svg)
 
 ---
 
