@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-![snake gif](https://github.com/namanjain2012/GAGANG1205/blob/output/snake.svg)
+![snake gif](https://github.com/GAGAN1205/GAGANG1205/blob/output/snake.svg)
 
 ---
 
